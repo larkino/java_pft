@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sanbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sanbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sanbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sanbox_main.iml" group="sanbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sanbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sanbox_test.iml" group="sanbox" />
+    </modules>
+  </component>
+</project>
